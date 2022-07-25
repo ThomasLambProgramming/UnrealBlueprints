@@ -16,6 +16,15 @@
 *.dylib
 *.dll
 
+# Ignoring art folders to allow git commits
+/__[Ee]xternal[Aa]ctors__/
+/__[Ee]xternal[Oo]bjects__/
+/[Cc]haracters/
+/[Cc]ursor/
+/[Ss]tarter[Cc]ontent/
+/[Dd]evelopers/
+/[Cc]ollections/
+
 # Fortran module files
 *.mod
 
